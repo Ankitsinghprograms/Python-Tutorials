@@ -1,0 +1,6 @@
+name = input('What is your name?\n')
+print('Hello,%s!Your name is nice' % name)
+fine = input("How are you\n")
+print("Yeah,%s I am also fine" %name)
+age= input("What is your age\n")
+print("Oo,%s SO you are teen" %name)
