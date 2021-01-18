@@ -1,0 +1,5 @@
+	Time	   Diet name
+
+[09/09/2020 22:38:47] Maggi and then 6 hr diet
+[10/09/2020 09:42:27] 3 hr nothing
+[10/09/2020 09:43:45] none

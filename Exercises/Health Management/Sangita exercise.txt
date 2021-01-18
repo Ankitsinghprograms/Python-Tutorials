@@ -1,0 +1,5 @@
+	Time	   Exercise name
+	
+[09/09/2020 22:38:04] none
+[10/09/2020 09:48:09] running
+[10/09/2020 09:48:25] jumping
